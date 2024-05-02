@@ -1,0 +1,11 @@
+Model Information:
+* title:	Day 183: Garbage
+* source:	https://sketchfab.com/3d-models/day-183-garbage-46e7a742c00f4b6285abc347bc3ba217
+* author:	alexdelker (https://sketchfab.com/alexdelker)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Day 183: Garbage" (https://sketchfab.com/3d-models/day-183-garbage-46e7a742c00f4b6285abc347bc3ba217) by alexdelker (https://sketchfab.com/alexdelker) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

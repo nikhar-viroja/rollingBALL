@@ -1,0 +1,11 @@
+Model Information:
+* title:	photogrammetry blue garbage bag
+* source:	https://sketchfab.com/3d-models/photogrammetry-blue-garbage-bag-fba21404c4a44db58e905e330586f043
+* author:	vicente betoret ferrero (https://sketchfab.com/deathcow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "photogrammetry blue garbage bag" (https://sketchfab.com/3d-models/photogrammetry-blue-garbage-bag-fba21404c4a44db58e905e330586f043) by vicente betoret ferrero (https://sketchfab.com/deathcow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
